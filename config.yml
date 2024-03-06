@@ -27,8 +27,18 @@
 #service_type: null
 #
 #
+# Meu arquivo gerado para conectar Google Drive - seção "connectors:"
+connectors:
+-
+  connector_id: "I2ouFY4BZYQ5XxMt_A8q"
+  service_type: "google_drive"
+  api_key: "SkdvdkZZNEJaWVE1WHhNdGdBOXM6S0JpOWlRMUNRRTJ2Y1pKQ3ZQLWc4dw==
 ## ------------------------------- Elasticsearch -------------------------------
-#
+#Meu arquivo gerado para conectar Google Drive - seção "elasticsearch:"
+elasticsearch:
+  host: "http://localhost:9200"
+  api_key: "SkdvdkZZNEJaWVE1WHhNdGdBOXM6S0JpOWlRMUNRRTJ2Y1pKQ3ZQLWc4dw=="
+
 ## The host of the Elasticsearch deployment.
 #elasticsearch.host: http://localhost:9200
 #
